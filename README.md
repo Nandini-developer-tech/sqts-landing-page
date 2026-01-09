@@ -47,6 +47,3 @@ The project is deployed using Netlify for live preview.
 Narigammagari Nandini
 
 
-Customize it for startup HR
-
-Just tell me 💙
